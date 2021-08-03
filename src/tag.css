@@ -1,0 +1,95 @@
+h1{
+    text-align: center;
+    background-color :#ffcf99;
+    color: #111d4a;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    
+}
+body{
+     background-color :#fff8f0;
+}
+
+.flagcontainer{
+    /* margin-top: 70px;  */
+    /* transform: scale(1.2); */
+    /* : 1borderpx solid #92140c; */
+   
+}
+
+.nigeria{
+    background-image: url('images/ng.png');
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 250px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    
+}
+.c{
+    border:1px solid #92140c;
+
+}
+.unitedstate{
+    background-image: url('images/us.png');
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 250px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.unitedkingdom{
+    background-image: url('images/uk.png');
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 250px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    
+}
+
+.argentina{
+    background-image: url('images/ar.png');
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 250px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.nigeria:hover{
+    color: greenyellow;
+    transform: scale(1.1);
+    
+}
+
+.unitedstate:hover{
+    color: blue;
+    transform: scale(1.1);
+    
+}
+
+.unitedkingdom:hover{
+    color: navy;
+    transform: scale(1.1);
+    
+}
+.argentina:hover{
+    color:blueviolet;
+    transform: scale(1.1);
+    
+}
+
+.c{
+    text-decoration: none;
+    
+}
